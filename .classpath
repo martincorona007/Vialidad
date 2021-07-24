@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Vialidad/src"/>
+	<classpathentry kind="lib" path="Vialidad/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="Vialidad/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="output" path="Vialidad/bin"/>
+</classpath>
